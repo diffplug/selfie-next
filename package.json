@@ -2,6 +2,7 @@
   "name": "selfie-landing",
   "private": true,
   "type": "module",
+  "packageManager": "pnpm@12.16.1",
   "scripts": {
     "dev": "wrangler pages dev",
     "test": "node --test --test-force-exit test/",
