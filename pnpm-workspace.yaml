@@ -1,0 +1,4 @@
+# Wrangler runs fine without these packages' install scripts, so they stay off.
+allowBuilds:
+  esbuild: false
+  workerd: false
